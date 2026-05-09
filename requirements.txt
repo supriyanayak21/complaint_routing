@@ -1,0 +1,10 @@
+flask
+pandas
+numpy
+scikit-learn
+joblib
+sentence-transformers
+torch
+openai-whisper
+ffmpeg-python
+langdetect

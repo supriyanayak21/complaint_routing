@@ -1,0 +1,21 @@
+﻿text,category,priority,eta
+No water supply in our area,Water,High,2
+Garbage not cleaned for days,Sanitation,Medium,4
+Street lights are not working,Electrical,Low,3
+Road damaged due to rain,Roads,High,7
+Sewage overflow near market,Sanitation,High,2
+Electric transformer caught fire,Electrical,High,1
+Potholes on main road,Roads,Medium,5
+Water leakage near school,Water,Medium,3
+Drain blockage causing bad smell,Sanitation,Medium,4
+Power outage since morning,Electrical,High,1
+Road cracked near bridge,Roads,High,6
+Water pipe broken near hospital,Water,High,2
+Garbage dumped near colony,Sanitation,Low,5
+Street light flickering,Electrical,Low,4
+Heavy potholes causing accidents,Roads,High,3
+No drinking water available,Water,High,2
+Overflowing sewage in street,Sanitation,High,2
+Electric pole sparking dangerously,Electrical,High,1
+Roadside drainage issue,Roads,Medium,5
+Water contamination complaint,Water,High,2
